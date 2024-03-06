@@ -1,0 +1,45 @@
+import Loginscreen from './Compornents/Loginscreen/Loginscreen';
+
+
+function App() {
+  return (
+    <div>
+      <Loginscreen/>
+    </div>
+  );
+}
+
+export default App;
+
+
+
+
+
+
+khcgvkugvcjvikubjnljvi
+
+
+
+
+
+
+
+
+
+ 
+// Inside src/App.js
+ 
+import React from "react";
+import "./App.css";
+import Loginscreen from './Compornents/Loginscreen/Loginscreen';
+
+function App() {
+    return (
+        <>
+           
+            <Loginscreen/>
+        </>
+    );
+}
+ 
+export default App;
